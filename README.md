@@ -33,7 +33,13 @@ PRODIGY_DS_05/
 ├── traffic_accident_analysis.py
 ├── summary.txt
 ├── README.md
-└── images/
+├── accident_hotspots_map.html
+├── severity_distribution.png
+├── accidents_by_hour.png
+├── ...
+└── wind_speed_distribution.png
+```
+
 ## Visualizations
 
 ### Accident Severity Distribution
