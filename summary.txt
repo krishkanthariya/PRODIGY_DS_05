@@ -1,0 +1,76 @@
+======================================================================
+US TRAFFIC ACCIDENT DATA ANALYSIS SUMMARY
+======================================================================
+
+Total Records Analysed : 300,000
+States Covered         : 49
+Cities Covered         : 8463
+
+KEY FINDINGS
+--------------------------------------------------
+Most Accident-Prone State : CA
+Most Accident-Prone City  : Houston
+Peak Accident Hour        : 8:00
+Common Weather Condition  : Fair
+Most Common Severity      : 2
+
+TOP 10 STATES
+--------------------------------------------------
+State
+CA    67534
+FL    32798
+TX    23378
+SC    15047
+NC    13380
+NY    13259
+PA    11259
+VA    11252
+MN     7238
+OR     7044
+
+TOP 10 CITIES
+--------------------------------------------------
+City
+Houston        6819
+Miami          6665
+Los Angeles    6124
+Charlotte      5635
+Dallas         5159
+Orlando        3987
+Austin         3927
+Raleigh        3458
+Baton Rouge    2892
+Nashville      2809
+
+TOP 10 WEATHER CONDITIONS
+--------------------------------------------------
+Weather_Condition
+Fair                94676
+Mostly Cloudy       39519
+Clear               34601
+Cloudy              30710
+Partly Cloudy       27357
+Overcast            16419
+Light Rain          13791
+Scattered Clouds     8780
+Unknown              6705
+Light Snow           4808
+
+ROAD FEATURES PRESENT DURING ACCIDENTS
+--------------------------------------------------
+Traffic_Signal     46657
+Crossing           34438
+Junction           22564
+Stop                8351
+Station             7753
+Amenity             3720
+Railway             2614
+Give_Way            1428
+No_Exit              777
+Traffic_Calming      309
+Bump                 119
+Roundabout             8
+
+======================================================================
+Analysis Completed Successfully
+======================================================================
